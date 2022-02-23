@@ -52,6 +52,6 @@
 </p>
 <p>
 <hr>
-<h2 align="center">You want to see something awesome 😁</h2>
-<h2 align="center"><a href="https://bannyvishwas.github.io">Click Here</a></h2>
+<h3 align="center">You want to see something awesome 😁</h2>
+<h3 align="center"><a href="https://bannyvishwas.github.io">Click Here</a></h2>
 </p>
